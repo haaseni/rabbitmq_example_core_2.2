@@ -1,0 +1,11 @@
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleReceiver.deps.json
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleReceiver.runtimeconfig.json
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleReceiver.runtimeconfig.dev.json
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleReceiver.dll
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleReceiver.pdb
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleReceiver.csprojAssemblyReference.cache
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleReceiver.csproj.CoreCompileInputs.cache
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleReceiver.AssemblyInfoInputs.cache
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleReceiver.AssemblyInfo.cs
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleReceiver.dll
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleReceiver.pdb

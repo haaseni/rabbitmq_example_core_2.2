@@ -1,0 +1,11 @@
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\bin\Debug\netcoreapp2.2\ConsoleSender.deps.json
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\bin\Debug\netcoreapp2.2\ConsoleSender.runtimeconfig.json
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\bin\Debug\netcoreapp2.2\ConsoleSender.runtimeconfig.dev.json
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\bin\Debug\netcoreapp2.2\ConsoleSender.dll
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\bin\Debug\netcoreapp2.2\ConsoleSender.pdb
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\obj\Debug\netcoreapp2.2\ConsoleSender.csproj.CoreCompileInputs.cache
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\obj\Debug\netcoreapp2.2\ConsoleSender.AssemblyInfoInputs.cache
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\obj\Debug\netcoreapp2.2\ConsoleSender.AssemblyInfo.cs
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\obj\Debug\netcoreapp2.2\ConsoleSender.dll
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\obj\Debug\netcoreapp2.2\ConsoleSender.pdb
+H:\Projects\github\rabbitmq_example_core_2.2\src\ConsoleCoreSender\obj\Debug\netcoreapp2.2\ConsoleSender.csprojAssemblyReference.cache
