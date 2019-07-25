@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/rabbitmq_example
+/src/ConsoleCoreReceiver/bin/Debug/netcoreapp2.2
+/src/ConsoleCoreReceiver/obj/Debug/netcoreapp2.2
+/src/ConsoleCoreReceiver/obj
+/src/ConsoleCoreSender/bin/Debug/netcoreapp2.2
+/src/ConsoleCoreSender/obj/Debug/netcoreapp2.2
+/src/ConsoleCoreSender/obj
