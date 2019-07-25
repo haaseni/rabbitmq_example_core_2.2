@@ -9,32 +9,27 @@ namespace ConsoleReceiver
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, this is the receiver application!");
+            Console.WriteLine("RECEIVER");
 
-            var factory = new ConnectionFactory {HostName = "localhost"};
+            var connFactory = new ConnectionFactory();
+            connFactory.HostName = "localhost";
 
-            using (var connection = factory.CreateConnection())
+            using (var connection = connFactory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
-                channel.QueueDeclare(queue: "msgKey",
-                    durable: false,
-                    exclusive: false,
-                    autoDelete: false,
-                    arguments: null);
+                channel.QueueDeclare(queue: "msgKey", durable: false, exclusive: false, autoDelete: false, arguments: null);
 
                 var consumer = new EventingBasicConsumer(channel);
                 consumer.Received += (model, ea) =>
                 {
                     var body = ea.Body;
                     var message = Encoding.UTF8.GetString(body);
-                    Console.WriteLine($" [x] Received {message}");
+                    Console.WriteLine($" -- Received Message: {message}");
                 };
 
-                channel.BasicConsume(queue: "msgKey",
-                    autoAck: true,
-                    consumer: consumer);
+                channel.BasicConsume(queue: "msgKey", autoAck: true, consumer: consumer);
 
-                Console.WriteLine(" Press [enter] to exit");
+                Console.WriteLine("Press Enter to Exit");
                 Console.ReadLine();
             }
         }
